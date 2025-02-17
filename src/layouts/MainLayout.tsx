@@ -1,11 +1,15 @@
 import Navbar from '@/components/navbar'
 import React from 'react'
 
-const MainLayout = () => {
+interface Props {
+  children: React.ReactNode
+}
+
+const MainLayout:React.FC<Props> = ({children}) => {
   return (
     <>
     <Navbar/>
-    <div>MainLayout</div>
+    {children}
     </>
   )
 }
