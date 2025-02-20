@@ -13,7 +13,7 @@ const Home = () => {
         </div>
         <div>
           <div className='absolute left-32 top-32 w-1/2 space-y-5'>
-              <div className='text-slate-50 text-5xl font-bold'>LOREM IPSUN ANJING BANGSAT BABI</div>
+              <div className='text-slate-50 text-5xl font-bold'>LOREM IPSUN DOLOR SIT AMET</div>
               <div>
                 <p className='text-slate-50 font-semibold'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo nostrum reiciendis, perferendis repellat architecto nemo dolorem.
                 </p>
